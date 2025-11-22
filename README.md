@@ -1,4 +1,3 @@
-# Skill_assesment-2
 # Assembly language program in 8051 to generate a 250 ms delay using Timer 1 (Mode 1) and blink an LED connected to Port 0.5 continuously.
 # Aim:
 To write and execute an assembly language program to generate a 250 ms delay using Timer 1 in Mode 1 and use it to continuously blink an LED connected to Port pin P0.5 of the 8051 microcontroller.
@@ -50,7 +49,8 @@ END
 ```
 # Output
 
-<img width="700" height="1500" alt="2" src="https://github.com/user-attachments/assets/af50b544-be1c-4b82-b5d6-8a3d25757b4e" />
+![WhatsApp Image 2025-11-22 at 08 00 18_cb3636a8](https://github.com/user-attachments/assets/8871de49-26e6-4b72-be4e-3efff6df93fd)
+
 
 # Result
 The LED connected to Port 0.5 blinks continuously with an ON time of 250 ms and OFF time of 250 ms, successfully demonstrating delay generation using Timer 1 in Mode 1.
